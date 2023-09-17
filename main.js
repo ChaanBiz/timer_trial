@@ -31,3 +31,8 @@ function count() {
 
 let i = setInterval(count, 1000)
 count()
+
+// new
+
+let hov = document.createElement("div")
+
