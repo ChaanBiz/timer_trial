@@ -2,7 +2,7 @@ let hrBox = document.getElementById("hr"),
 minBox = document.getElementById("min"),
 secBox = document.getElementById("sec")
 
-let endDate = new Date(2023, 8, 17, 2, 36)
+let endDate = new Date(2023, 8, 17, 23, 50)
 
 function count() {
   let today = new Date(),
