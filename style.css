@@ -1,0 +1,8 @@
+#timer {
+  display: flex;
+  justify-content: center;
+}
+
+#timer div {
+  margin: 10px;
+}
